@@ -1,0 +1,12 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for MyProjectEditor
+    Running UnrealHeaderTool "C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\MyProject.uproject" "C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 1.7582599 seconds
+  Performing 3 actions (9 in parallel)
+  TestCharacter.cpp
+  [2/3] Link UE4Editor-MyProject-2551.dll
+  [3/3] Link UE4Editor-MyProject-2551.lib
+     Creating library C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-2551.lib and object C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-2551.exp
+     Creating library C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-2551.suppressed.lib and object C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-2551.suppressed.exp
+  Deploying MyProjectEditor Win64 Development...
+  Total build time: 5.87 seconds (Local executor: 2.24 seconds)

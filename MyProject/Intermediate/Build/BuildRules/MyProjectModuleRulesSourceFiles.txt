@@ -1,0 +1,3 @@
+C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Source\MyProject.Target.cs
+C:\Users\deefa\Desktop\Repositories\The-Tech-Academy-C-and-Unreal-Engine-Projects\MyProject\Source\MyProjectEditor.Target.cs
